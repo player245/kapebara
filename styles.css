@@ -1,0 +1,91 @@
+/* Global Styles */
+body {
+	font-family: Monaco, sans-serif;
+}
+
+.container {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.navbar {
+	margin-bottom: 20px;
+}
+
+h1 {
+	padding-bottom: 10px;
+	padding-top: 60px;
+}
+
+p {
+	padding-bottom: 10px;
+}
+
+h2 {
+    padding-top: 10px;
+}
+body {
+	background-image: url("ror3.png");
+	background-repeat: no-repeat;
+	background-size: cover; /* Adjust as needed */
+  }
+/* Section Styles */
+.about-section {
+	padding: 40px 0;
+	text-align: center;
+}
+
+.services-section {
+	padding: 40px 0;
+	text-align: center;
+}
+
+.contact-section {
+	padding: 40px 0;
+}
+
+.blog-section {
+	padding: 40px 0;
+}
+
+/* Form Styles */
+.form-group label {
+	font-weight: bold;
+}
+
+/* Footer Styles */
+.footer-section {
+	padding: 20px 0;
+	background-color: #b1fc74;
+	text-align: center;
+}
+
+/* Card Styles */
+.card {
+	margin-bottom: 30px;
+}
+
+/* Modal Styles */
+.modal-dialog {
+	max-width: 500px;
+}
+
+/* Media Query for Small Devices */
+@media (max-width: 768px) {
+	.navbar {
+		margin-bottom: 0;
+	}
+	.container {
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+	.about-section,
+	.services-section,
+	.contact-section,
+	.blog-section {
+		padding: 20px 0;
+	}
+	.modal-dialog {
+		max-width: 300px;
+	}
+}
