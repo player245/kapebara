@@ -153,9 +153,30 @@ body {
 }
 
 .coffee-section {
-	padding: 40px 0;
+	padding: 40px;
 }
 
+.coffee-section h2 {
+	text-align: center;
+	color:white;
+	padding-bottom: 10px;
+}
+
+.card3 {
+	border: none;
+}
+
+.coffee-section h3 {
+	color: white;
+}
+
+.coffee-section h3 {
+	text-align: center;
+}
+
+.coffee-section p {
+	text-align: center;
+}
 .blog-section {
 	padding: 40px 0;
 }
