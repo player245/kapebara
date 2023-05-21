@@ -177,6 +177,26 @@ body {
 .coffee-section p {
 	text-align: center;
 }
+
+.patries-section {
+	padding: 40px;
+}
+
+.pastries-section h3 {
+	color: white;
+	text-align: center;
+}
+
+.pastries-section h2 {
+	text-align: center;
+	color: white;
+	padding-bottom: 10px;
+	padding-top: 40px;
+}
+
+.pastries-section p {
+	text-align: center;
+}
 .blog-section {
 	padding: 40px 0;
 }
